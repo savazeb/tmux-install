@@ -1,6 +1,6 @@
 # tmux-install
 
-easy installer for tmux
+Easy installer for tmux
 
 ## Usage
 
@@ -8,4 +8,4 @@ easy installer for tmux
 wget -qO - https://raw.githubusercontent.com/savazeb/tmux-install/master/setup.sh | sudo bash
 ```
 
-remove `sudo` when sudo privilege not wanted
+Remove `sudo` when sudo privilege not wanted
