@@ -1,3 +1,3 @@
 apt install tmux -y
 
-echo "set -g mouse on" >> ./.tmux.conf
+echo "set -g mouse on" >> ~/.tmux.conf
